@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+  background: blue;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+h1 {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  text-align: center;
+  color: white;
+
+}
+
+.backg {
+  min-height: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.red-button {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+}
